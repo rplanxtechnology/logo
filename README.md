@@ -1,5 +1,10 @@
 # logo
 
+## Color
+- **Flag of India**  
+  https://en.wikipedia.org/wiki/Flag_of_India  
+  [![](https://raw.githubusercontent.com/rplanxtechnology/logo/master/www/255px-Flag_of_India.svg.png)](https://en.wikipedia.org/wiki/Flag_of_India#/media/File:Flag_of_India.svg)
+
 ## Symbol
 - **Dot (diacritic) - Wikipedia, the free encyclopedia**  
   https://en.wikipedia.org/wiki/Dot_(diacritic)  
