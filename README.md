@@ -25,6 +25,6 @@ An "overdot" is a raised <a href="http://mathworld.wolfram.com/Dot.html">dot</a>
   [![](https://raw.githubusercontent.com/rplanxtechnology/logo/master/www/255px-Flag_of_India.svg.png)](https://en.wikipedia.org/wiki/Flag_of_India#/media/File:Flag_of_India.svg)
 
 ## Font
-- **Monofur Font by [Tobias Benjamin Köhler](http://www.dafont.com/tobias-benjamin-kohler.d365) | dafont.com**
-  http://www.dafont.com/monofur.font
+- **Monofur Font by [Tobias Benjamin Köhler](http://www.dafont.com/tobias-benjamin-kohler.d365) | dafont.com**  
+  http://www.dafont.com/monofur.font  
   ![](https://raw.githubusercontent.com/rplanxtechnology/logo/master/www/Screenshot 2016-03-26 17.14.07.png)
