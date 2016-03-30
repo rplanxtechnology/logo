@@ -1,5 +1,7 @@
 # Logo
 
+![](https://raw.githubusercontent.com/rplanxtechnology/logo/master/brand_tagline.png)
+
 ## Symbol
 - **Dot (diacritic) - Wikipedia, the free encyclopedia**  
   https://en.wikipedia.org/wiki/Dot_(diacritic)  
