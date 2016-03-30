@@ -8,7 +8,7 @@
 ## Symbol
 - **Dot (diacritic) - Wikipedia, the free encyclopedia**  
   https://en.wikipedia.org/wiki/Dot_(diacritic)  
-  ![](https://raw.githubusercontent.com/rplanxtechnology/logo/master/www/Screenshot 2016-03-30 11.17.46)
+  ![](https://raw.githubusercontent.com/rplanxtechnology/logo/master/www/Screenshot%202016-03-30%2011.17.46.png)
   > <p>When used as a <a href="https://en.wikipedia.org/wiki/Diacritic" title="Diacritic">diacritic</a> mark, the term <b>dot</b> is usually reserved for the <i><a href="https://en.wikipedia.org/wiki/Interpunct" title="Interpunct">Interpunct</a></i> ( · ), or to the <a href="https://en.wikipedia.org/wiki/Glyph" title="Glyph">glyphs</a> 'combining dot above' (&nbsp;<span class="Unicode">◌̇</span>&nbsp;) and 'combining dot below' (&nbsp;<span class="Unicode">◌̣</span>&nbsp;) which may be combined with some <a href="https://en.wikipedia.org/wiki/Letter_(alphabet)" title="Letter (alphabet)">letters</a> of the extended <a href="https://en.wikipedia.org/wiki/Latin_alphabet" title="Latin alphabet">Latin alphabets</a> in use in Central European languages and <a href="https://en.wikipedia.org/wiki/Vietnamese_language" title="Vietnamese language">Vietnamese</a>.</p>
   
 - **Overdot - from Wolfram MathWorld**  
