@@ -1,4 +1,4 @@
-# logo
+# Logo
 
 ## Symbol
 - **Dot (diacritic) - Wikipedia, the free encyclopedia**  
