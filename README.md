@@ -1,7 +1,7 @@
 # logo
 
 ## Color
-- **Flag of India**  
+- **Flag of India - Wikipedia, the free encyclopedia**  
   https://en.wikipedia.org/wiki/Flag_of_India  
   [![](https://raw.githubusercontent.com/rplanxtechnology/logo/master/www/255px-Flag_of_India.svg.png)](https://en.wikipedia.org/wiki/Flag_of_India#/media/File:Flag_of_India.svg)
 
