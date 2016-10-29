@@ -1,4 +1,4 @@
-![](/white_logo.png)
+![](/logo_favicon-primary.png)
 
 Unbounded by rationality
 
@@ -10,5 +10,5 @@ R Plan Ẋ is a Kolkata based software development firm established in 2016. We 
 
 - Ayan Choudhury (M: 9163554353)
 
-![](/white_gray.png)
-![](/white_square-02.png)
+![](/logo_gray.png)
+![](/logo_primary.png)
