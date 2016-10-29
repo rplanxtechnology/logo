@@ -1,5 +1,6 @@
 
-# R Plan Ẋ `Unbounded by rationality`
+# R Plan `{Ẋ}`
+Unbounded by rationality
 
 ![](./white_square-03.png)
 
